@@ -6,7 +6,7 @@
         "age": 24,
         "isActive": true,
         "birthDate": "1976-09-23",
-        "imageUrl": "https://example.com/images/guts.jpg",
+        "imageUrl": "https://github.com/TanerBektas68/Berserk/blob/main/guts.jpg?raw=true",
         "status": "Alive",
         "hobbies": ["Fighting", "Protecting Casca", "Seeking revenge"],
         "weapon": {
