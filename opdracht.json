@@ -1,0 +1,182 @@
+[
+    {
+        "id": 1,
+        "name": "Guts",
+        "description": "A lone mercenary with a massive sword, known as the Black Swordsman.",
+        "age": 24,
+        "isActive": true,
+        "birthDate": "1976-09-23",
+        "imageUrl": "https://example.com/images/guts.jpg",
+        "status": "Alive",
+        "hobbies": ["Fighting", "Protecting Casca", "Seeking revenge"],
+        "weapon": {
+            "id": 101,
+            "name": "Dragonslayer",
+            "type": "Greatsword",
+            "isMagical": false,
+            "imageUrl": "https://example.com/images/dragonslayer.jpg"
+        }
+    },
+    {
+        "id": 2,
+        "name": "Griffith",
+        "description": "The leader of the Band of the Hawk, who sacrificed his comrades for power.",
+        "age": 26,
+        "isActive": false,
+        "birthDate": "1974-05-01",
+        "imageUrl": "https://example.com/images/griffith.jpg",
+        "status": "Alive",
+        "hobbies": ["Leading", "Strategizing", "Pursuing his dream"],
+        "weapon": {
+            "id": 102,
+            "name": "Rapier",
+            "type": "Sword",
+            "isMagical": true,
+            "imageUrl": "https://example.com/images/rapier.jpg"
+        }
+    },
+    {
+        "id": 3,
+        "name": "Casca",
+        "description": "A skilled warrior and former commander of the Band of the Hawk.",
+        "age": 23,
+        "isActive": true,
+        "birthDate": "1977-08-15",
+        "imageUrl": "https://example.com/images/casca.jpg",
+        "status": "Alive",
+        "hobbies": ["Fighting", "Protecting Guts", "Recovering memories"],
+        "weapon": {
+            "id": 103,
+            "name": "Shortsword",
+            "type": "Sword",
+            "isMagical": false,
+            "imageUrl": "https://example.com/images/shortsword.jpg"
+        }
+    },
+    {
+        "id": 4,
+        "name": "Puck",
+        "description": "A cheerful and mischievous elf who accompanies Guts on his journey.",
+        "age": 150,
+        "isActive": true,
+        "birthDate": "1850-12-12",
+        "imageUrl": "https://example.com/images/puck.jpg",
+        "status": "Alive",
+        "hobbies": ["Flying", "Joking", "Helping Guts"],
+        "weapon": {
+            "id": 104,
+            "name": "Elf Dust",
+            "type": "Magic",
+            "isMagical": true,
+            "imageUrl": "https://example.com/images/elfdust.jpg"
+        }
+    },
+    {
+        "id": 5,
+        "name": "Farnese",
+        "description": "A former noblewoman who becomes a member of Guts' new party.",
+        "age": 22,
+        "isActive": true,
+        "birthDate": "1978-03-30",
+        "imageUrl": "https://example.com/images/farnese.jpg",
+        "status": "Alive",
+        "hobbies": ["Praying", "Learning magic", "Protecting others"],
+        "weapon": {
+            "id": 105,
+            "name": "Talisman",
+            "type": "Magic",
+            "isMagical": true,
+            "imageUrl": "https://example.com/images/talisman.jpg"
+        }
+    },
+    {
+        "id": 6,
+        "name": "Serpico",
+        "description": "A skilled swordsman and Farnese's half-brother.",
+        "age": 25,
+        "isActive": true,
+        "birthDate": "1975-07-20",
+        "imageUrl": "https://example.com/images/serpico.jpg",
+        "status": "Alive",
+        "hobbies": ["Fighting", "Protecting Farnese", "Strategizing"],
+        "weapon": {
+            "id": 106,
+            "name": "Rapier",
+            "type": "Sword",
+            "isMagical": false,
+            "imageUrl": "https://example.com/images/rapier2.jpg"
+        }
+    },
+    {
+        "id": 7,
+        "name": "Schierke",
+        "description": "A young witch who joins Guts' party to help him fight against evil forces.",
+        "age": 14,
+        "isActive": true,
+        "birthDate": "1986-11-11",
+        "imageUrl": "https://example.com/images/schierke.jpg",
+        "status": "Alive",
+        "hobbies": ["Studying magic", "Helping Guts", "Exploring"],
+        "weapon": {
+            "id": 107,
+            "name": "Staff",
+            "type": "Magic",
+            "isMagical": true,
+            "imageUrl": "https://example.com/images/staff.jpg"
+        }
+    },
+    {
+        "id": 8,
+        "name": "Zodd",
+        "description": "A powerful apostle who serves Griffith and is known as the Immortal.",
+        "age": 300,
+        "isActive": true,
+        "birthDate": "1700-01-01",
+        "imageUrl": "https://example.com/images/zodd.jpg",
+        "status": "Alive",
+        "hobbies": ["Fighting", "Serving Griffith", "Seeking strong opponents"],
+        "weapon": {
+            "id": 108,
+            "name": "Greatsword",
+            "type": "Sword",
+            "isMagical": false,
+            "imageUrl": "https://example.com/images/greatsword.jpg"
+        }
+    },
+    {
+        "id": 9,
+        "name": "Skull Knight",
+        "description": "A mysterious warrior who aids Guts in his battle against the God Hand.",
+        "age": 1000,
+        "isActive": true,
+        "birthDate": "1000-10-31",
+        "imageUrl": "https://example.com/images/skullknight.jpg",
+        "status": "Alive",
+        "hobbies": ["Fighting", "Protecting Guts", "Seeking vengeance"],
+        "weapon": {
+            "id": 109,
+            "name": "Sword of Actuation",
+            "type": "Magic",
+            "isMagical": true,
+            "imageUrl": "https://example.com/images/swordofactuation.jpg"
+        }
+    },
+    {
+        "id": 10,
+        "name": "Judeau",
+        "description": "A former member of the Band of the Hawk, known for his skill with a crossbow.",
+        "age": 28,
+        "isActive": false,
+        "birthDate": "1972-04-05",
+        "imageUrl": "https://example.com/images/judeau.jpg",
+        "status": "Deceased",
+        "hobbies": ["Fighting", "Protecting his friends", "Telling jokes"],
+        "weapon": {
+            "id": 110,
+            "name": "Crossbow",
+            "type": "Ranged",
+            "isMagical": false,
+            "imageUrl": "https://example.com/images/crossbow.jpg"
+        }
+    }
+]
