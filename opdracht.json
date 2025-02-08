@@ -6,7 +6,7 @@
         "age": 24,
         "isActive": true,
         "birthDate": "1976-09-23",
-        "imageUrl": "https://example.com/images/guts.jpg",
+        "imageUrl": "https://github.com/TanerBektas68/Berserk/blob/main/guts.jpg?raw=true",
         "status": "Alive",
         "hobbies": ["Fighting", "Protecting Casca", "Seeking revenge"],
         "weapon": {
@@ -24,7 +24,7 @@
         "age": 26,
         "isActive": false,
         "birthDate": "1974-05-01",
-        "imageUrl": "https://example.com/images/griffith.jpg",
+        "imageUrl": "https://raw.githubusercontent.com/TanerBektas68/Berserk/refs/heads/main/Griffith.webp",
         "status": "Alive",
         "hobbies": ["Leading", "Strategizing", "Pursuing his dream"],
         "weapon": {
@@ -42,7 +42,7 @@
         "age": 23,
         "isActive": true,
         "birthDate": "1977-08-15",
-        "imageUrl": "https://example.com/images/casca.jpg",
+        "imageUrl": "https://raw.githubusercontent.com/TanerBektas68/Berserk/refs/heads/main/Casca.webp",
         "status": "Alive",
         "hobbies": ["Fighting", "Protecting Guts", "Recovering memories"],
         "weapon": {
@@ -60,7 +60,7 @@
         "age": 150,
         "isActive": true,
         "birthDate": "1850-12-12",
-        "imageUrl": "https://example.com/images/puck.jpg",
+        "imageUrl": "https://raw.githubusercontent.com/TanerBektas68/Berserk/refs/heads/main/Chestnut_Puck.webp",
         "status": "Alive",
         "hobbies": ["Flying", "Joking", "Helping Guts"],
         "weapon": {
@@ -78,7 +78,7 @@
         "age": 22,
         "isActive": true,
         "birthDate": "1978-03-30",
-        "imageUrl": "https://example.com/images/farnese.jpg",
+        "imageUrl": "https://raw.githubusercontent.com/TanerBektas68/Berserk/refs/heads/main/farnese.webp",
         "status": "Alive",
         "hobbies": ["Praying", "Learning magic", "Protecting others"],
         "weapon": {
@@ -96,7 +96,7 @@
         "age": 25,
         "isActive": true,
         "birthDate": "1975-07-20",
-        "imageUrl": "https://example.com/images/serpico.jpg",
+        "imageUrl": "https://github.com/TanerBektas68/Berserk/blob/main/serpico.jpg?raw=true",
         "status": "Alive",
         "hobbies": ["Fighting", "Protecting Farnese", "Strategizing"],
         "weapon": {
@@ -114,7 +114,7 @@
         "age": 14,
         "isActive": true,
         "birthDate": "1986-11-11",
-        "imageUrl": "https://example.com/images/schierke.jpg",
+        "imageUrl": "https://raw.githubusercontent.com/TanerBektas68/Berserk/refs/heads/main/schierke.webp",
         "status": "Alive",
         "hobbies": ["Studying magic", "Helping Guts", "Exploring"],
         "weapon": {
@@ -132,7 +132,7 @@
         "age": 300,
         "isActive": true,
         "birthDate": "1700-01-01",
-        "imageUrl": "https://example.com/images/zodd.jpg",
+        "imageUrl": "https://raw.githubusercontent.com/TanerBektas68/Berserk/refs/heads/main/zodd.webp",
         "status": "Alive",
         "hobbies": ["Fighting", "Serving Griffith", "Seeking strong opponents"],
         "weapon": {
@@ -150,7 +150,7 @@
         "age": 1000,
         "isActive": true,
         "birthDate": "1000-10-31",
-        "imageUrl": "https://example.com/images/skullknight.jpg",
+        "imageUrl": "https://github.com/TanerBektas68/Berserk/blob/main/skull%20knight.jpeg?raw=true",
         "status": "Alive",
         "hobbies": ["Fighting", "Protecting Guts", "Seeking vengeance"],
         "weapon": {
@@ -168,7 +168,7 @@
         "age": 28,
         "isActive": false,
         "birthDate": "1972-04-05",
-        "imageUrl": "https://example.com/images/judeau.jpg",
+        "imageUrl": "https://github.com/TanerBektas68/Berserk/blob/main/judeau.jpg?raw=true",
         "status": "Deceased",
         "hobbies": ["Fighting", "Protecting his friends", "Telling jokes"],
         "weapon": {
