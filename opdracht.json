@@ -14,7 +14,7 @@
             "name": "Dragonslayer",
             "type": "Greatsword",
             "isMagical": false,
-            "imageUrl": "https://example.com/images/dragonslayer.jpg"
+            "imageUrl": "https://raw.githubusercontent.com/TanerBektas68/Berserk/refs/heads/main/dragonslayer.webp"
         }
     },
     {
@@ -32,7 +32,7 @@
             "name": "Rapier",
             "type": "Sword",
             "isMagical": true,
-            "imageUrl": "https://example.com/images/rapier.jpg"
+            "imageUrl": "https://raw.githubusercontent.com/TanerBektas68/Berserk/refs/heads/main/rapier.webp"
         }
     },
     {
@@ -50,7 +50,7 @@
             "name": "Shortsword",
             "type": "Sword",
             "isMagical": false,
-            "imageUrl": "https://example.com/images/shortsword.jpg"
+            "imageUrl": "https://github.com/TanerBektas68/Berserk/blob/main/shortsword.jpeg?raw=true"
         }
     },
     {
@@ -68,7 +68,7 @@
             "name": "Elf Dust",
             "type": "Magic",
             "isMagical": true,
-            "imageUrl": "https://example.com/images/elfdust.jpg"
+            "imageUrl": "https://raw.githubusercontent.com/TanerBektas68/Berserk/refs/heads/main/elfdust.webp"
         }
     },
     {
@@ -104,7 +104,7 @@
             "name": "Rapier",
             "type": "Sword",
             "isMagical": false,
-            "imageUrl": "https://example.com/images/rapier2.jpg"
+            "imageUrl": "https://raw.githubusercontent.com/TanerBektas68/Berserk/refs/heads/main/serpico%20rapier.webp"
         }
     },
     {
@@ -122,7 +122,7 @@
             "name": "Staff",
             "type": "Magic",
             "isMagical": true,
-            "imageUrl": "https://example.com/images/staff.jpg"
+            "imageUrl": "https://raw.githubusercontent.com/TanerBektas68/Berserk/refs/heads/main/staff.webp"
         }
     },
     {
@@ -140,7 +140,7 @@
             "name": "Greatsword",
             "type": "Sword",
             "isMagical": false,
-            "imageUrl": "https://example.com/images/greatsword.jpg"
+            "imageUrl": "https://github.com/TanerBektas68/Berserk/blob/main/zodd%20sword.png?raw=true"
         }
     },
     {
@@ -158,7 +158,7 @@
             "name": "Sword of Actuation",
             "type": "Magic",
             "isMagical": true,
-            "imageUrl": "https://example.com/images/swordofactuation.jpg"
+            "imageUrl": "https://raw.githubusercontent.com/TanerBektas68/Berserk/refs/heads/main/Sword%20of%20Actuation.webp"
         }
     },
     {
@@ -176,7 +176,7 @@
             "name": "Crossbow",
             "type": "Ranged",
             "isMagical": false,
-            "imageUrl": "https://example.com/images/crossbow.jpg"
+            "imageUrl": "https://raw.githubusercontent.com/TanerBektas68/Berserk/refs/heads/main/Crossbow.webp"
         }
     }
 ]
